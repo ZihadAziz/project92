@@ -12,11 +12,12 @@ body
 	}
 
 
-#player1_name , #player2_name
+.score
 {
 	display: inline-block;
 	margin-left: 20px;
-	width: 80%;
+	width: 5%;
+	color: white;
 }
 #word
 {
